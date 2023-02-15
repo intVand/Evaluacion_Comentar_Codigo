@@ -1,0 +1,42 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/ivanb/Desktop/IES Severo Ochoa/Entornos de desarrollo/Tema 8/Evaluacion_Comentar_Codigo/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/ivanb/Desktop/IES Severo Ochoa/Entornos de desarrollo/Tema 8/Evaluacion_Comentar_Codigo/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Evaluacion_Comentar_Codigo 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Evaluacion_Comentar_Codigo 1.0-SNAPSHOT API'
+com.mycompany.evaluacion_comentar_codigo
+C:\Users\ivanb\Desktop\IES Severo Ochoa\Entornos de desarrollo\Tema 8\Evaluacion_Comentar_Codigo\src\main\java = 1676474486690
+C:\Users\ivanb\Desktop\IES Severo Ochoa\Entornos de desarrollo\Tema 8\Evaluacion_Comentar_Codigo\target\site\apidocs\allclasses-index.html = 1676479690558
+C:\Users\ivanb\Desktop\IES Severo Ochoa\Entornos de desarrollo\Tema 8\Evaluacion_Comentar_Codigo\target\site\apidocs\allpackages-index.html = 1676479690560
+C:\Users\ivanb\Desktop\IES Severo Ochoa\Entornos de desarrollo\Tema 8\Evaluacion_Comentar_Codigo\target\site\apidocs\element-list = 1676479690511
+C:\Users\ivanb\Desktop\IES Severo Ochoa\Entornos de desarrollo\Tema 8\Evaluacion_Comentar_Codigo\target\site\apidocs\help-doc.html = 1676479690588
+C:\Users\ivanb\Desktop\IES Severo Ochoa\Entornos de desarrollo\Tema 8\Evaluacion_Comentar_Codigo\target\site\apidocs\index-all.html = 1676479690580
+C:\Users\ivanb\Desktop\IES Severo Ochoa\Entornos de desarrollo\Tema 8\Evaluacion_Comentar_Codigo\target\site\apidocs\index.html = 1676479690582
+C:\Users\ivanb\Desktop\IES Severo Ochoa\Entornos de desarrollo\Tema 8\Evaluacion_Comentar_Codigo\target\site\apidocs\jquery-ui.overrides.css = 1676479690627
+C:\Users\ivanb\Desktop\IES Severo Ochoa\Entornos de desarrollo\Tema 8\Evaluacion_Comentar_Codigo\target\site\apidocs\member-search-index.js = 1676479690566
+C:\Users\ivanb\Desktop\IES Severo Ochoa\Entornos de desarrollo\Tema 8\Evaluacion_Comentar_Codigo\target\site\apidocs\module-search-index.js = 1676479690562
+C:\Users\ivanb\Desktop\IES Severo Ochoa\Entornos de desarrollo\Tema 8\Evaluacion_Comentar_Codigo\target\site\apidocs\overview-tree.html = 1676479690542
+C:\Users\ivanb\Desktop\IES Severo Ochoa\Entornos de desarrollo\Tema 8\Evaluacion_Comentar_Codigo\target\site\apidocs\package-search-index.js = 1676479690563
+C:\Users\ivanb\Desktop\IES Severo Ochoa\Entornos de desarrollo\Tema 8\Evaluacion_Comentar_Codigo\target\site\apidocs\script.js = 1676479690593
+C:\Users\ivanb\Desktop\IES Severo Ochoa\Entornos de desarrollo\Tema 8\Evaluacion_Comentar_Codigo\target\site\apidocs\search.js = 1676479690595
+C:\Users\ivanb\Desktop\IES Severo Ochoa\Entornos de desarrollo\Tema 8\Evaluacion_Comentar_Codigo\target\site\apidocs\stylesheet.css = 1676479690591
+C:\Users\ivanb\Desktop\IES Severo Ochoa\Entornos de desarrollo\Tema 8\Evaluacion_Comentar_Codigo\target\site\apidocs\tag-search-index.js = 1676479690567
+C:\Users\ivanb\Desktop\IES Severo Ochoa\Entornos de desarrollo\Tema 8\Evaluacion_Comentar_Codigo\target\site\apidocs\type-search-index.js = 1676479690565

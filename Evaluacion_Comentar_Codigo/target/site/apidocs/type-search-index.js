@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.mycompany.evaluacion_comentar_codigo","l":"EntradaBlogIBB"}];updateSearchResults();
